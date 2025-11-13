@@ -112,25 +112,12 @@ El presente documento fue concebido y desarrollado por un equipo humano(ov), con
 
 
 ---
-MIT License (Adaptada para uso educativo y social)
+Licencia MIT
 
-Copyright (c) 2025 Salud-Chain Perú
+Copyright © 2025 Salud-Chain Perú
 
-Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
-de este software y archivos de documentación asociados (el "Software"), para usar
-el Software sin restricción, incluyendo sin limitación los derechos para usar,
-copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias
-del Software, siempre que el uso esté orientado a fines **educativos, sociales o
-sin ánimo de lucro**.
+Se concede permiso, sin cargo alguno, a cualquier persona que obtenga una copia de este software y la documentación asociada (el «Software»), para utilizarlo sin restricción alguna, incluyendo, entre otros, los derechos de uso, copia, modificación, fusión, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a quienes se les proporcione el Software que hagan lo mismo, sujeto a las siguientes condiciones:
 
-La condición anterior no limita el derecho a usar el Software en proyectos
-comerciales, pero se recomienda que cualquier uso comercial considere contribuir
-al desarrollo social o educativo.
+El aviso de derechos de autor anterior y este aviso de permiso deberán incluirse en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
-IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIALIZACIÓN,
-IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS
-AUTORES O TITULARES DEL COPYRIGHT SERÁN RESPONSABLES POR NINGUNA RECLAMACIÓN,
-DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE
-OTRA MANERA, QUE SURJA DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U
-OTRAS OPERACIONES EN EL SOFTWARE.
+EL SOFTWARE SE PROPORCIONA «TAL CUAL», SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA POR INCUMPLIMIENTO DE CONTRATO, RESPONSABILIDAD EXTRACONTRACTUAL O DE OTRO TIPO, QUE SURJA DE, O EN RELACIÓN CON, EL SOFTWARE O SU USO.
